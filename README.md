@@ -140,3 +140,4 @@ PROVIDER_SMTP_FROM=""
 Before deploy, you need to set up a database.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wangel13/prisma-next-auth-graphql-starter)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=wangel13/prisma-next-auth-graphql-starter&type=static&buildCmd=npm+run+build&outputDir=dist)
